@@ -5,9 +5,9 @@
 
 
 Here are some examples of my notebooks with AI code:
-[LangChain & LangGraph Reasoning Agent](https://colab.research.google.com/drive/1nGoGYc47ZB5vHYjpvQPTe09hY_tKOrIr?usp=sharing)
-[Using LSTM with PyTorch](https://colab.research.google.com/drive/19I1ZPvADuDVf2nxcv49GmQY74LBmV4n6?usp=sharing)
-[RAG Generation evaluation and advanced retrievers (Hypo questions, LLM compression retriever)](https://colab.research.google.com/drive/1msguicw94Tdw3NEGFKNc7-l7whAEpupc?usp=sharing)
+- [LangChain & LangGraph Reasoning Agent](https://colab.research.google.com/drive/1nGoGYc47ZB5vHYjpvQPTe09hY_tKOrIr?usp=sharing)
+- [Using LSTM with PyTorch](https://colab.research.google.com/drive/19I1ZPvADuDVf2nxcv49GmQY74LBmV4n6?usp=sharing)
+- [RAG Generation evaluation and advanced retrievers (Hypo questions, LLM compression retriever)](https://colab.research.google.com/drive/1msguicw94Tdw3NEGFKNc7-l7whAEpupc?usp=sharing)
 
 
 <!--
