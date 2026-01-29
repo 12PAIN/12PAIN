@@ -3,7 +3,7 @@
 - I'm a ML/DL Engineer
 - Key skills: RAG, LLM, ASR
 - Bachelors: Kemerovo State University 2021-2025. Thesis topic: streaming ASR application for online-translation on medical lectures.
-– Masters: Innoplois University 2025-Now. Research topics: RAG, ASR, RL, IR
+- **Masters**: Innoplois University 2025-Now. Research topics: RAG, ASR, RL, IR.
 - How to reach me:
   * Email: tvelvepain@yandex.ru
   * Telegram: @twelvepain
