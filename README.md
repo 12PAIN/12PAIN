@@ -10,7 +10,7 @@
 
 Here are some examples of my notebooks with AI code:
 - [LangChain & LangGraph Reasoning Agent](https://colab.research.google.com/drive/1nGoGYc47ZB5vHYjpvQPTe09hY_tKOrIr?usp=sharing)
-– [FastMRI: binary classification and multi-class binary classification problem with CNN's](https://colab.research.google.com/drive/1HxaxihcM_XIgSFU226D0--8w495lyS16?usp=sharing)
+- [FastMRI: binary classification and multi-class binary classification problem with CNN's](https://colab.research.google.com/drive/1HxaxihcM_XIgSFU226D0--8w495lyS16?usp=sharing)
 - [RAG Generation evaluation and advanced retrievers (Hypo questions, LLM compression retriever)](https://colab.research.google.com/drive/1msguicw94Tdw3NEGFKNc7-l7whAEpupc?usp=sharing)
 
 Below you can find some examples of my repositories. One of the interesting is [Whisper-Triton batched processing in k8s cluster](https://github.com/12PAIN/whisper-triton-batched-k8s) – this repository is the fork, i've changed the way how it processes audio to process batched and long-form audio. 
