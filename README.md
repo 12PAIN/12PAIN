@@ -5,8 +5,8 @@
 - Bachelors: Kemerovo State University 2021-2025. Thesis topic: streaming ASR application for online-translation on medical lectures.
 - **Masters**: Innoplois University 2025-Now. Research topics: RAG, ASR, RL, IR.
 - How to reach me:
-  * Email: tvelvepain@yandex.ru
-  * Telegram: @twelvepain
+  * Email: avastanin@yandex.ru
+  * Telegram: @avastanin
 
 Here are some examples of my notebooks with AI code:
 - [LangChain & LangGraph Reasoning Agent](https://colab.research.google.com/drive/1nGoGYc47ZB5vHYjpvQPTe09hY_tKOrIr?usp=sharing)
